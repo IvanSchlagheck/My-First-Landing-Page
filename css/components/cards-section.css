@@ -1,0 +1,19 @@
+.cards-section {
+  background-color: #970946;
+  text-align: center;
+  width: 1000px;
+  margin: 0px auto 30px auto;
+  padding: 20px;
+}
+.cards {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.cards-section h2 {
+  margin-top: 0;
+  margin-bottom: 20px;
+  color: white;
+  text-shadow: 2px 2px 20px #460030;
+}

@@ -1,0 +1,30 @@
+/*CSS Files*/
+@import url(components/banner.css);
+@import url(components/button.css);
+@import url(components/cards-section.css);
+@import url(components/card.css);
+@import url(components/footer.css);
+
+/* Fonts */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700|Poppins:700');
+
+/* Fontawesome */
+@import url('https://use.fontawesome.com/releases/v5.6.3/css/all.css');
+
+/* Utilities */
+body {
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+  background-color: #970946;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+/* Custom design below! */
+

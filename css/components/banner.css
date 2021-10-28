@@ -1,0 +1,13 @@
+.banner {
+  margin: 0 auto;
+  height: 600px;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+}
+
+.banner-container {
+  width: 700px;
+}

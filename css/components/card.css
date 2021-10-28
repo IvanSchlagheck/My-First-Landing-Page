@@ -1,0 +1,19 @@
+.card {
+  height: 250px;
+  width: 200px;
+  background-color: white;
+  box-shadow: 5px 5px 20px #460030;
+  border-radius: 3px;
+  opacity: 0.95;
+  transition: 0.3s;
+}
+
+.card:hover {
+  opacity: 1;
+}
+
+.card > img {
+  max-width: 50%;
+  max-height: 65.31px;
+  margin: 10px;
+}
